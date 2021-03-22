@@ -8,4 +8,5 @@ func main() {
 	fmt.Printf("Local change")
 	fmt.Printf("Online change")
 	fmt.Printf("changes in new branch ")
+	fmt.Printf("changes in new branch 2")
 }
