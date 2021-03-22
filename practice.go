@@ -6,4 +6,5 @@ func main() {
   
 	fmt.Printf("Practice code:  Day2")
 	fmt.Printf("Local change")
+	fmt.Printf("Online change")
 }
